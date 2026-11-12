@@ -1,0 +1,2 @@
+property_id,sale_date,market,sector,subtype,sale_price,size,occupancy,contract_rent,market_rent,lease_type,lease_expiry,wtd_lease_term_years,in_place_noi,opex,property_taxes,year_built,building_class,market_cap_at_sale,verified,notes
+EXAMPLE-1 (replace with real sales),2026-06-30,"Atlanta, GA",industrial,Bulk distribution,14500000,120000,1.0,7.25,8.0,NNN,More than 3 years,5.5,830000,150000,210000,2015,,0.06,no,Illustrative row showing the format — not a real transaction.
